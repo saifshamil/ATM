@@ -1,0 +1,21 @@
+{
+  "name": "@saifshamil141/atm",
+  "version": "7.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^8.1.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
